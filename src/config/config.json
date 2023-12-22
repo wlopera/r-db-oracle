@@ -1,0 +1,9 @@
+{
+  "database": {
+    "host": "192.168.251.96",
+    "port": "1521",
+    "dbName": "PROLINUX",
+    "user": "SRV_OLEGPROBD",
+    "password": "MDEyMzQ1Njc4OUFCQ0RFRue0VlY4f4AlH7KmqRacVu4="
+  }
+}
