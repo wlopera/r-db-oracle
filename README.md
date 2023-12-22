@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# React r-db-racle
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+APP React - consultas DB Oracle 
 
-## Available Scripts
+ver documento: doc/react-db-oracle.docx
 
-In the project directory, you can run:
+# Salidas
 
-### `npm start`
+Salidas:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+•	Vista inicial (Home)
+ ![image](https://github.com/wlopera/r-db-oracle/assets/7141537/4c828df8-8ace-47d9-baf2-b02e2d87b76b)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+•	Vista Encriptar palabra
+ ![image](https://github.com/wlopera/r-db-oracle/assets/7141537/51f96df1-1014-4e99-b6ae-314aa426ded4)
 
-### `npm test`
+•	Vista Desencriptar palabra
+![image](https://github.com/wlopera/r-db-oracle/assets/7141537/1b0c3d2c-91f1-4c5e-a6b3-2eef3a462771)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ •	Vista Consultar DB 
+Agregar Query y click en boton Enviar
+![image](https://github.com/wlopera/r-db-oracle/assets/7141537/5beb9829-a072-4efe-abd4-5d6e6a9d8f5a)
 
-### `npm run build`
+ Ver datos de la respuesta (Json)
+ ![image](https://github.com/wlopera/r-db-oracle/assets/7141537/9e99e010-ffd4-41d4-b3a3-89969f93cd9d)
+ 
+Consultar DB pasando parámetros de la DB
+Agregar valores de DB
+Agregar Query y click en botón Enviar
+![image](https://github.com/wlopera/r-db-oracle/assets/7141537/3f567220-8eaf-41cd-8d0b-a233d7ded714)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
